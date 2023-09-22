@@ -1,0 +1,7 @@
+git init
+git status
+git add chap.txt
+git commit -m "complete chap1"
+git log
+git diff chap3.txt
+git checkout chapter 3
